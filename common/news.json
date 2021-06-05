@@ -1,0 +1,265 @@
+{
+    "status": "ok",
+    "totalResults": 127,
+    "articles": [{
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Watch live: New York Governor Andrew Cuomo gives coronavirus update",
+            "description": "The governor is speaking on Memorial Day after saying New York is now \"decidedly in the reopening phase\" in its battle against the crisis.",
+            "url": "https://www.cbsnews.com/news/andrew-cuomo-new-york-governor-coronavirus-update-briefing-watch-live-stream-today-2020-05-25/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/05/24/52612f58-1723-4d92-b554-976a9f3510ca/thumbnail/1200x630/c2950c36f2e208821b6906362ebbcb81/gettyimages-1214896775.jpg",
+            "publishedAt": "2020-05-25T14:20:00+00:00",
+            "content": "New York Governor Andrew Cuomo is giving an update Monday on the state's response to the coronavirus pandemic. On Sunday, the governor said New York is now \"decidedly in the reopening phase\" in its b… [+578 chars]"
+        },
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "RTÉ News",
+            "title": "Covid-19 deaths rise to 514 in Northern Ireland",
+            "description": "The number of people who have died after testing positive for coronavirus in Northern Ireland has risen to 514 after eight more deaths were reported by the Department of Health.",
+            "url": "https://www.rte.ie/news/coronavirus/2020/0525/1141500-covid-19-deaths-rise-to-514-in-northern-ireland/",
+            "urlToImage": "https://img.rasset.ie/00141fe1-1600.jpg",
+            "publishedAt": "2020-05-25T14:11:16Z",
+            "content": "The number of people who have died after testing positive for coronavirus in Northern Ireland has risen to 514 after eight more deaths were reported by the Department of Health.\r\nThe department also … [+2563 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Trump visits Arlington National Cemetery and Fort McHenry on Memorial Day",
+            "description": "Both Arlington National Cemetery and Fort McHenry are closed to the public because of the coronavirus pandemic.",
+            "url": "https://www.cbsnews.com/news/trump-visits-arlington-national-cemetery-and-fort-mchenry-on-memorial-day/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/05/20/81797cec-6eb6-407d-b652-9f6ddeea7da8/thumbnail/1200x630g2/baff4146fceea17ade6474f37afcb4bb/gettyimages-1213404460.jpg",
+            "publishedAt": "2020-05-25T13:59:12+00:00",
+            "content": "President Trump began observing Memorial Day with a tweet Monday morning: \"HAPPY MEMORIAL DAY!\" He'll also be participating in two ceremonies Monday, one at Arlington National Cemetery, and the other… [+1652 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John O'Donnell",
+            "title": "EU must present united front to shield pandemic-hit banks: regulator",
+            "description": "European countries need to join forces to shield their banks from the coronavirus outbreak, one of the bloc's top regulators said on Monday, potentially using a 500 billion euro ($545 billion) EU recovery fund to do so.",
+            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/OEZ_ybHWUq0/eu-must-present-united-front-to-shield-pandemic-hit-banks-regulator-idUSKBN2311CK",
+            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200525&t=2&i=1519814719&w=1200&r=LYNXMPEG4O0VV",
+            "publishedAt": "2020-05-25T13:47:25Z",
+            "content": "FRANKFURT (Reuters) - European countries need to join forces to shield their banks from the coronavirus outbreak, one of the bloc’s top regulators said on Monday, potentially using a 500 billion euro… [+2759 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": null,
+            "title": "Gauteng has 2 773 confirmed Covid-19 cases and 29 deaths",
+            "description": "Johannesburg, with 1 385 coronavirus cases, still has the most infections in Gauteng.",
+            "url": "https://www.news24.com/SouthAfrica/News/gauteng-has-2-773-confirmed-covid-19-cases-and-29-deaths-20200525",
+            "urlToImage": "http://cdn.24.co.za/files/Cms/General/d/10197/c82cda02b8ac45b485cbf301fccdc0fa.jpg",
+            "publishedAt": "2020-05-25T13:45:12+00:00",
+            "content": "The total number of confirmed Covid-19 cases in Gauteng sat at 2 773 as of Monday, with 1 899 recoveries and 29 deaths, the Gauteng Department of Health said.\r\nJohannesburg still had the highest numb… [+2093 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Coronavirus pandemic lockdowns halt bid to save northern white rhino from extinction with in-vitro fertilization",
+            "description": "With scientists stuck at home, time is running to use an egg from one of the last 2 northern white rhinos on the planet to create a baby.",
+            "url": "https://www.cbsnews.com/news/coronavirus-halts-bid-to-save-northern-white-rhino-from-extinction-via-in-vitro-fertilization/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/01/16/d3130fb9-0cdb-4007-a0b7-4ec30df7c830/thumbnail/1200x630/1d5cf9db8b67cea485e7545895a78557/gettyimages-1163306287.jpg",
+            "publishedAt": "2020-05-25T13:40:53+00:00",
+            "content": "Nanyuki, Kenya — It's not quite a case of coitus interruptus, but efforts to create a very special baby are definitely on hold. Blame the coronavirus pandemic.\r\nGroundbreaking work to keep alive the … [+4048 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "David Shepardson",
+            "title": "Trump warns he may move Republican convention site from NC",
+            "description": "U.S. President Donald Trump warned on Monday that he may move the Republican National Convention from North Carolina set for August if the event faces state social distancing restrictions as a result of the coronavirus.",
+            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/QNJvOXFmvOo/trump-warns-he-may-move-republican-convention-site-from-nc-idUSKBN2311EU",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200525&t=2&i=1519814138&w=1200&r=LYNXMPEG4O0XF",
+            "publishedAt": "2020-05-25T13:39:18Z",
+            "content": "WASHINGTON (Reuters) - U.S. President Donald Trump warned on Monday that he may move the Republican National Convention from North Carolina set for August if the event faces state social distancing r… [+1314 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Shannon Molloy",
+            "title": "Coronavirus in Australia: Returning JobSeeker welfare payment to pre-COVID level would be ‘frankly cruel’",
+            "description": "Coronavirus in Australia: Returning JobSeeker welfare payment to pre-COVID level would be ‘frankly cruel’",
+            "url": "https://www.news.com.au/lifestyle/health/health-problems/coronavirus-in-australia-returning-jobseeker-welfare-payment-to-precovid-level-would-be-frankly-cruel/news-story/559f1d530f62557451d637f2ab6e5709",
+            "urlToImage": "https://cdn.newsapi.com.au/image/v1/c692e588380fecbfa2bafc29dcf62ead?width=650",
+            "publishedAt": "2020-05-25T13:39:00Z",
+            "content": "The governments plan to return welfare payments to their pre-coronavirus levels in September well below the poverty line is frankly cruel, a television panellist has said.Monday night’s Q&amp;A focus… [+4614 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Denver man billed more than $3,200 after ER visit for coronavirus-like symptoms",
+            "description": "A Denver father was billed more than $3,200 in medical charges after an ER visit for coronavirus-like symptoms. In a continuing Bill of the Month partnership with Kaiser Health News and NPR, \"CBS This Morning\" takes a look at unexpected medical costs. This ma…",
+            "url": "https://www.cbsnews.com/video/denver-man-billed-more-than-3200-after-er-visit-for-coronavirus-like-symptoms/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/05/25/d8c79601-b738-4442-9811-4aeec877b881/thumbnail/1200x630/1f9e3473391370e75088afa40fbde4f1/cbsn-fusion-denver-man-billed-more-than-3200-after-er-visit-for-coronavirus-like-symptoms-thumbnail-490114-640x360.jpg",
+            "publishedAt": "2020-05-25T13:27:59+00:00",
+            "content": "Watch CBSN Live\r\nCopyright © 2020 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Ariel HelwaniESPN Staff Writer ",
+            "title": "UFC: Stricter coronavirus testing on tap for return to Las Vegas",
+            "description": "The UFC will have stricter coronavirus testing measures in place as the promotion gets set for its return to Las Vegas this weekend.",
+            "url": "http://espn.go.com/mma/ufc/story/_/id/29218931/ufc-issues-stricter-coronavirus-testing-measures-return-las-vegas",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0105%2Fr648957_1296x729_16%2D9.jpg",
+            "publishedAt": "2020-05-25T13:26:00Z",
+            "content": "The UFC is instituting stricter COVID-19 testing guidelines ahead of its return to Las Vegas this weekend.\r\nThe promotion sent a memo to the fighters competing on the upcoming Las Vegas card, schedul… [+2983 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Estelle Shirbon",
+            "title": "'What planet are they on?' No respite for UK's Johnson and aide",
+            "description": "Prime Minister Boris Johnson faced mutiny in his party and fury across Britain on Monday for refusing to sack his closest aide Dominic Cummings, accused of flouting the coronavirus lockdown by driving 250 miles from London.",
+            "url": "https://www.reuters.com/article/us-health-coronavirus-britain-cummings-idUSKBN2310UI",
+            "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200525&t=2&i=1519808231&w=1200&r=LYNXMPEG4O0UF",
+            "publishedAt": "2020-05-25T13:23:26+00:00",
+            "content": "LONDON (Reuters) - Prime Minister Boris Johnson faced mutiny in his party and fury across Britain on Monday for refusing to sack his closest aide Dominic Cummings, accused of flouting the coronavirus… [+3964 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "David Gilbert",
+            "title": "Coronavirus Is Killing Brazil's Isolated Indigenous Peoples at a Staggering Rate",
+            "description": "The mortality rate among indigenous people is twice that of the rest of the population.",
+            "url": "https://www.vice.com/en_us/article/ep4ngz/coronavirus-is-killing-brazils-isolated-indigenous-peoples-at-a-staggering-rate",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecbb08bc19e170098c76ec2/lede/1590410458483-AP_20135793010946.jpeg?crop=1xw:0.8429xh;0xw,0.0234xh&resize=1200:*",
+            "publishedAt": "2020-05-25T13:16:29Z",
+            "content": "Want the best of VICE News straight to your inbox? Sign up here.\r\n COVID-19 is hitting Brazils indigenous population twice as hard as the rest of the population, with a mortality rate of over 12 perc… [+2663 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "STEFANIE DAZIO",
+            "title": "Lock your cars! Vehicle theft spikes in COVID-19 pandemic",
+            "description": "LOS ANGELES (AP) — The coronavirus hasn’t been kind to car owners.With more people than ever staying home to lessen the spread of COVID-19, their sedans, pickup trucks and SUVs are parked...",
+            "url": "https://apnews.com/4da015d2457d80869849eb6cd91d1621",
+            "urlToImage": "",
+            "publishedAt": "2020-05-25T13:06:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Andrea Petersen",
+            "title": "More People Are Taking Drugs for Anxiety and Insomnia, and Doctors Are Worried",
+            "description": "As coronavirus health concerns, social isolation and job-loss stress take a toll, people turn to medications; ‘It can very quickly become a habit’",
+            "url": "https://www.wsj.com/articles/more-people-are-taking-drugs-for-anxiety-and-insomnia-and-doctors-are-worried-11590411600?mod=hp_featst_pos1",
+            "urlToImage": "https://images.wsj.net/im-189231/social",
+            "publishedAt": "2020-05-25T13:00:00Z",
+            "content": "Prescriptions for anti-anxiety medications and sleep aids have risen during the pandemic, prompting doctors to warn about the possibility of long-term addiction and abuse of the drugs. Many physician… [+6722 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": null,
+            "title": "Ghaziabad Seals Border With Delhi Again Over Rising Coronavirus Cases",
+            "description": "The Delhi-Uttar Pradesh border at Ghaziabad will be sealed once again in view of the sudden spike in coronavirus cases, the Ghaziabad administration said today. On Sunday, 10 people proved positive in the district, which earlier was one of the districts worst…",
+            "url": "https://www.ndtv.com/india-news/coronavirus-lockdown-ghaziabad-orders-sealing-border-with-delhi-again-over-rising-covid-19-cases-2234773",
+            "urlToImage": "https://c.ndtvimg.com/2020-04/jk0m6gh_delhighaziabadborder650_625x300_21_April_20.jpg",
+            "publishedAt": "2020-05-25T12:57:08+00:00",
+            "content": "COVID-19 Cases: Delhi Ghaziabad Border sealing will be as strict as it was during lockdown 2\r\nNew Delhi: The Delhi-Uttar Pradesh border at Ghaziabad will be sealed once again in view of the sudden sp… [+1560 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Coronavirus: What's happening in Canada on Monday | CBC News",
+            "description": "Ontario's premier is expanding COVID-19 testing criteria, saying over the weekend that people who feel they need a test should go to one of the province's 129 assessment centres — even if they don't have symptoms. Here's a look at what's happening in Canada o…",
+            "url": "http://www.cbc.ca/news/canada/coronavirus-covid19-canada-may25-monday-1.5583012",
+            "urlToImage": "https://i.cbc.ca/1.5583074.1590407335!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-ont-premier-ford-cda-20200513.jpg",
+            "publishedAt": "2020-05-25T12:52:17.5164963Z",
+            "content": "The latest:\r\nOntario's premier is expanding COVID-19 testing criteria, saying over the weekend that people who feel they need a test should go to one of the province's 129 assessment centres  even if… [+6571 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "‘Japan model’ has beaten coronavirus, Shinzo Abe declares",
+            "description": "Prime minister lifts state of emergency nationwide after seven weeks of shutdown",
+            "url": "https://www.ft.com/content/c78baffc-79b8-4da4-97f1-8c7caaad25cf",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff7e16483-f9e2-4766-b9a9-7ce749ebbb4b.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2020-05-25T12:52:16.3761535Z",
+            "content": "Prime minister Shinzo Abe has declared victory for the “Japan model” of fighting coronavirus as he lifted a nationwide state of emergency after seven weeks.\r\nSpeaking at a press conference on Monday … [+3171 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Arno Schuetze",
+            "title": "Lufthansa, German government agree on $9.8 billion rescue package: sources",
+            "description": "The German government and the management of flagship carrier Lufthansa , which has been hit hard by the coronavirus pandemic, have reached a preliminary deal on a 9 billion euro ($9.8 billion) bailout, two people close to the matter said.",
+            "url": "http://feeds.reuters.com/~r/reuters/topNews/~3/3N_MCMGtXc0/lufthansa-german-government-agree-on-9-8-billion-rescue-package-sources-idUSKBN23110F",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200525&t=2&i=1519808380&w=1200&r=LYNXMPEG4O0OK",
+            "publishedAt": "2020-05-25T12:37:18Z",
+            "content": "FRANKFURT/BERLIN (Reuters) - The German government and the management of flagship carrier Lufthansa (LHAG.DE), which has been hit hard by the coronavirus pandemic, have reached a preliminary deal on … [+2811 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "John Bowden",
+            "title": "Trump threatens to move GOP convention over North Carolina's coronavirus restrictions | TheHill",
+            "description": "President Trump warned Monday that the Republican Party could seek to move its 2020 convention if...",
+            "url": "http://thehill.com/homenews/campaign/499414-trump-threatens-to-move-gop-convention-over-north-carolinas-coronavirus",
+            "urlToImage": "https://thehill.com/sites/default/files/trumpdonald3_05222020getty.jpg",
+            "publishedAt": "2020-05-25T12:36:08Z",
+            "content": "President TrumpDonald John TrumpTrump retweets personal attacks on Clinton, Pelosi, AbramsBiden swipes at Trump: 'Presidency is about a lot more than tweeting from your golf cart'GOP sues California … [+2920 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Yuliya Talmazan, Eric Baculinao",
+            "title": "China blames U.S. for growing coronavirus tensions",
+            "description": "Some political forces in the U.S. are pushing China and the United States to the brink of a “new Cold War,” Chinese foreign minister said Sunday.",
+            "url": "https://www.nbcnews.com/news/world/china-blames-u-s-growing-coronavirus-tensions-n1214156",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_22/3363231/afp_1s67dv_a1378d1f8ccf4711c2328172c231a914.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2020-05-25T12:34:09Z",
+            "content": "China and the U.S. are on the brink of a \"new Cold War,\" China's Foreign Minister said as officials in the world's two largest economies continue trading barbs over each others handling of the corona… [+3988 chars]"
+        }
+    ]
+}
